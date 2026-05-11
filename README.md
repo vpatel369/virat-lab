@@ -1,3 +1,14 @@
+![GitHub stars](https://img.shields.io/github/stars/vpatel369/virat-lab?style=social)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/vpatel369/virat-lab)
+
+![License](https://img.shields.io/github/license/vpatel369/virat-lab)
+
+![AI](https://img.shields.io/badge/Focus-AI-blue)
+
+![Security](https://img.shields.io/badge/Domain-AI_Security-red)
+
+![Automation](https://img.shields.io/badge/Automation-Workflows-green)
 # Virat Lab
 
 ## Open AI Learning & Workflow Hub
@@ -12,59 +23,15 @@ Build a practical, beginner-friendly, future-ready AI knowledge platform that an
 
 ---
 
-# Featured Learning Paths
-
-## AI Security Roadmap
-
-Future-ready AI security learning path covering:
-
-- LLM security
-- Prompt Injection
-- Cloud + Identity Security
-- AI Governance
-- Agentic AI Risks
-- AI Red Teaming
-
-Open here:
-
-[AI Security Roadmap](./ai-security/roadmap.md)
-
----
-
 # Repository Structure
 
-- beginner-path/
-- ai-security/
-- healthcare-ai/
-- claude-skills/
-- prompts/
-- workflows/
-- research/
-- resources/
-- templates/
-
----
-
-# Quick Navigation
-
-| Section | Link |
-|---|---|
-| Beginner Path | [Open](./beginner-path) |
-| AI Security | [Open](./ai-security) |
-| Healthcare AI | [Open](./healthcare-ai) |
-| Claude Skills | [Open](./claude-skills) |
-| Workflows | [Open](./workflows) |
-| Research | [Open](./research) |
-| Resources | [Open](./resources) |
-
----
-
-# Future Vision
-
-Virat Lab will evolve into:
-
-- AI learning university
-- Agentic workflow marketplace
-- Security research hub
-- Healthcare AI education platform
-- Open-source automation ecosystem
+```bash
+beginner-path/
+ai-security/
+healthcare-ai/
+claude-skills/
+prompts/
+workflows/
+research/
+resources/
+templates/
