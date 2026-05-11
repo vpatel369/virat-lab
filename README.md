@@ -23,6 +23,24 @@ Build a practical, beginner-friendly, future-ready AI knowledge platform that an
 
 ---
 
+# Featured Learning Paths
+
+## AI Security Roadmap
+
+Future-ready AI security learning path covering:
+- LLM security
+- prompt injection
+- cloud + identity security
+- AI governance
+- agentic AI risks
+- AI red teaming
+
+Open here:
+
+[AI Security Roadmap](./ai-security/roadmap.md)
+
+---
+
 # Repository Structure
 
 ```bash
