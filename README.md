@@ -35,7 +35,6 @@ workflows/
 research/
 resources/
 templates/
-
 ## Quick Navigation
 
 | Section | Link |
