@@ -1,49 +1,32 @@
-# Welcome to Virat Lab
+# START HERE — Virat Lab
 
-Virat Lab is an open AI learning and workflow hub designed for beginners, professionals, healthcare workers, cybersecurity engineers, and automation builders.
+Welcome to Virat Lab.
 
-The mission is to help people learn practical AI workflows, AI security, automation, and future-ready systems.
+This repository is designed to help beginners, professionals, healthcare workers, cybersecurity engineers, and future builders learn practical AI skills.
 
 ---
 
-# Choose Your Learning Path
+# What Is Virat Lab?
 
-## Beginner Path
-Learn:
-- AI basics
+Virat Lab is an open AI learning ecosystem focused on:
+
+- AI workflows
 - Prompt engineering
-- AI tools
-- Automation fundamentals
-
----
-
-## AI Security Path
-Learn:
-- LLM security
-- AI threat modeling
-- AI governance
-- AI red teaming
-
----
-
-## Healthcare AI Path
-Learn:
-- AI for clinicians
-- AI research workflows
-- Healthcare automation
-- Compliance awareness
-
----
-
-## Automation Path
-Learn:
+- AI security
+- Healthcare AI
+- Automation systems
 - AI agents
-- n8n workflows
-- GitHub automation
-- Claude workflows
+- Future-ready career skills
+
+The goal is to create practical, beginner-friendly, real-world AI education.
 
 ---
 
-# Vision
+# Recommended Learning Path
 
-Build a practical open-source AI learning ecosystem for everyone.
+## Beginner
+Start here if you are new to AI.
+
+Go to:
+```bash
+beginner-path/
