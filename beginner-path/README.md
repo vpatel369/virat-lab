@@ -1,12 +1,23 @@
-# Beginner AI Path
+# Beginner Path
 
-This section is designed for people completely new to AI.
+## Start Here
 
-## Topics
-- AI basics
-- Prompt engineering
-- AI tools
-- AI productivity
-- Automation basics
+This section is designed for people with zero technical background.
 
-No advanced coding knowledge required.
+---
+
+## Learn In Order
+
+1. Computer Basics
+2. Internet Fundamentals
+3. Cloud Basics
+4. AI Fundamentals
+5. Prompt Engineering
+6. Automation Basics
+7. AI Tools
+
+---
+
+## Goal
+
+Help anyone become AI-ready within 90 days using practical learning paths.
