@@ -2,7 +2,7 @@
 
 This section is designed for people completely new to AI.
 
-Topics will include:
+## Topics
 - AI basics
 - Prompt engineering
 - AI tools
