@@ -11,6 +11,7 @@ Virat Lab will grow into a world-class AI learning ecosystem that combines begin
 - Add beginner-friendly learning paths
 - Add security, automation, and research templates
 - Resolve duplicate or missing documentation
+- Establish LEARN -> PRACTICE -> BUILD -> SHARE curriculum structure
 
 ## Phase 2: Practical Learning
 
@@ -19,6 +20,7 @@ Virat Lab will grow into a world-class AI learning ecosystem that combines begin
 - Add project-based modules
 - Add prompt packs
 - Add workflow examples
+- Add complete learning paths for AI security, agents, prompt engineering, Claude Skills, automation, cloud identity, and healthcare AI
 
 ## Phase 3: AI Security Depth
 
@@ -27,6 +29,7 @@ Virat Lab will grow into a world-class AI learning ecosystem that combines begin
 - Add RAG security labs
 - Add agentic AI security checklists
 - Add governance and compliance playbooks
+- Add MCP security, AI observability, runtime governance, and AI identity security content
 
 ## Phase 4: Agentic And Automation Systems
 
@@ -51,4 +54,4 @@ Virat Lab will grow into a world-class AI learning ecosystem that combines begin
 - Add project boards
 - Add example portfolios
 - Add beginner-to-professional certification-style tracks
-
+- Expand career tracks and public sharing templates

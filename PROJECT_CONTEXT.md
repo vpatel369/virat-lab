@@ -25,12 +25,15 @@ The project combines:
 5. Build scalable AI automation workflows
 6. Develop future-ready career resources
 7. Turn the GitHub repo into a learning platform
+8. Structure every major topic around LEARN -> PRACTICE -> BUILD -> SHARE
 
 ## Current Repository Structure
 
 - [START-HERE.md](START-HERE.md)
 - [README.md](README.md)
 - [ROADMAP.md](ROADMAP.md)
+- [learning-paths/](learning-paths/)
+- [career-tracks/](career-tracks/)
 - [beginner-path/](beginner-path/)
 - [ai-security/](ai-security/)
 - [agentic-ai/](agentic-ai/)
@@ -99,6 +102,7 @@ The repo should always be:
 - Easy to navigate
 - Future-ready
 - Open-source focused
+- Built around learning outputs, projects, and public sharing
 
 Avoid:
 
@@ -128,6 +132,7 @@ Virat Lab should eventually evolve into:
 - Step-by-step guidance
 - GitHub-friendly formatting
 - Security and privacy notes where relevant
+- LEARN -> PRACTICE -> BUILD -> SHARE structure for curriculum content
 
 ## Instructions For AI Assistants
 

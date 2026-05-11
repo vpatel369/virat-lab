@@ -13,6 +13,16 @@ Virat Lab is a practical AI learning ecosystem for beginners, builders, healthca
 
 The goal is simple: help people learn modern AI by building useful real-world workflows, understanding risk, and developing skills that stay valuable as AI systems become more agentic, automated, and integrated into daily work.
 
+## Learning Model
+
+Every major topic follows:
+
+```text
+LEARN -> PRACTICE -> BUILD -> SHARE
+```
+
+This means every path should help learners understand concepts, practice hands-on, build portfolio projects, and share evidence of skill.
+
 ## Mission
 
 Build a beginner-friendly, future-ready AI knowledge platform that helps anyone learn, build, automate, secure, and grow in the AI era.
@@ -34,6 +44,8 @@ Build a beginner-friendly, future-ready AI knowledge platform that helps anyone 
 | --- | --- |
 | [START-HERE.md](START-HERE.md) | First stop for new learners |
 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) | Vision, design philosophy, and repo operating context |
+| [learning-paths/](learning-paths/) | Structured AI university curriculum |
+| [career-tracks/](career-tracks/) | Career roadmaps and interview prep |
 | [beginner-path/](beginner-path/) | 90-day beginner AI learning path |
 | [ai-security/](ai-security/) | AI security, LLM risks, red teaming, governance, and labs |
 | [agentic-ai/](agentic-ai/) | AI agents, tool use, memory, orchestration, and safety |
@@ -52,30 +64,37 @@ Build a beginner-friendly, future-ready AI knowledge platform that helps anyone 
 ### New To AI
 
 1. Read [START-HERE.md](START-HERE.md)
-2. Follow [beginner-path/README.md](beginner-path/README.md)
-3. Practice with [prompts/prompt-engineering-guide.md](prompts/prompt-engineering-guide.md)
-4. Build a small workflow from [workflows/README.md](workflows/README.md)
+2. Follow [learning-paths/beginner/](learning-paths/beginner/)
+3. Practice with [learning-paths/prompt-engineering/](learning-paths/prompt-engineering/)
+4. Build a small workflow from [learning-paths/automation/](learning-paths/automation/)
 
 ### Cybersecurity Or IAM Professional
 
-1. Read [ai-security/README.md](ai-security/README.md)
-2. Follow [ai-security/roadmap.md](ai-security/roadmap.md)
+1. Follow [learning-paths/ai-security/](learning-paths/ai-security/)
+2. Follow [learning-paths/cloud-identity-security/](learning-paths/cloud-identity-security/)
 3. Practice [ai-security/prompt-injection-lab.md](ai-security/prompt-injection-lab.md)
-4. Use [ai-security/threat-modeling.md](ai-security/threat-modeling.md)
+4. Review [career-tracks/ai-security-engineer.md](career-tracks/ai-security-engineer.md)
 
 ### Automation Builder
 
-1. Read [automation/README.md](automation/README.md)
-2. Study [workflows/automation-guide.md](workflows/automation-guide.md)
+1. Follow [learning-paths/automation/](learning-paths/automation/)
+2. Follow [learning-paths/ai-agents/](learning-paths/ai-agents/)
 3. Use [templates/workflow-template.md](templates/workflow-template.md)
-4. Add security checks from [ai-security/governance-checklist.md](ai-security/governance-checklist.md)
+4. Review [career-tracks/ai-automation-engineer.md](career-tracks/ai-automation-engineer.md)
 
 ### Healthcare AI Learner
 
-1. Read [healthcare-ai/README.md](healthcare-ai/README.md)
-2. Follow [healthcare-ai/learning-path.md](healthcare-ai/learning-path.md)
-3. Review [healthcare-ai/compliance-checklist.md](healthcare-ai/compliance-checklist.md)
-4. Build a research workflow using [research/research-workflows.md](research/research-workflows.md)
+1. Follow [learning-paths/healthcare-ai/](learning-paths/healthcare-ai/)
+2. Review [healthcare-ai/compliance-checklist.md](healthcare-ai/compliance-checklist.md)
+3. Build a research workflow using [research/research-workflows.md](research/research-workflows.md)
+4. Review [career-tracks/healthcare-ai-specialist.md](career-tracks/healthcare-ai-specialist.md)
+
+### Career Transformation
+
+1. Pick a track in [career-tracks/](career-tracks/)
+2. Complete the matching learning path
+3. Build one portfolio project
+4. Publish a GitHub README and short demo post
 
 ## Core Principles
 

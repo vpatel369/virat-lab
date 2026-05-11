@@ -8,10 +8,12 @@ Agent security starts with one question: what can this system do without a human
 - Unsafe tool calls
 - Secret exposure
 - Prompt injection through files, webpages, or retrieved content
+- MCP tool poisoning or over-permissioned connectors
 - Memory poisoning
 - Unreviewed external actions
 - Weak logging
 - No rollback path
+- Identity abuse by nonhuman agents
 
 ## Safer Design Pattern
 
@@ -23,6 +25,8 @@ Agent security starts with one question: what can this system do without a human
 6. Log every tool call.
 7. Test malicious and mistaken inputs.
 8. Document failure and rollback procedures.
+9. Register agents with unique identities where possible.
+10. Monitor runtime behavior for abnormal tool use.
 
 ## Review Questions
 
@@ -34,4 +38,3 @@ Agent security starts with one question: what can this system do without a human
 - Who reviews high-risk decisions?
 - Where are logs stored?
 - How do we disable it quickly?
-

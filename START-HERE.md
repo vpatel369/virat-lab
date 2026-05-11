@@ -20,18 +20,29 @@ Virat Lab is an open AI learning ecosystem focused on:
 
 The goal is practical education: learn the concepts, build small projects, understand the risks, and document reusable workflows.
 
+## Core Learning Model
+
+Every path follows:
+
+```text
+LEARN -> PRACTICE -> BUILD -> SHARE
+```
+
+Use the curriculum in [learning-paths/](learning-paths/) for structured learning and the topic folders for deeper reference material.
+
 ## How To Use This Repository
 
 Start with the path that best matches your current level.
 
 | If you are... | Start with |
 | --- | --- |
-| New to AI | [beginner-path/](beginner-path/) |
-| Interested in cybersecurity | [ai-security/](ai-security/) |
-| Building automations | [automation/](automation/) and [workflows/](workflows/) |
-| Learning Claude Skills | [claude-skills/](claude-skills/) |
-| Working in healthcare | [healthcare-ai/](healthcare-ai/) |
-| Improving prompts | [prompts/](prompts/) |
+| New to AI | [learning-paths/beginner/](learning-paths/beginner/) |
+| Interested in cybersecurity | [learning-paths/ai-security/](learning-paths/ai-security/) |
+| Building automations | [learning-paths/automation/](learning-paths/automation/) |
+| Learning Claude Skills | [learning-paths/claude-skills/](learning-paths/claude-skills/) |
+| Working in healthcare | [learning-paths/healthcare-ai/](learning-paths/healthcare-ai/) |
+| Improving prompts | [learning-paths/prompt-engineering/](learning-paths/prompt-engineering/) |
+| Exploring careers | [career-tracks/](career-tracks/) |
 | Doing research | [research/](research/) |
 
 ## Beginner Learning Path
@@ -69,4 +80,4 @@ Examples:
 
 ## Next Step
 
-Go to [beginner-path/README.md](beginner-path/README.md) if you are new, or choose a specialized area from the main [README.md](README.md).
+Go to [learning-paths/beginner/README.md](learning-paths/beginner/README.md) if you are new, or choose a specialized path from [learning-paths/README.md](learning-paths/README.md).

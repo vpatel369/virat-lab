@@ -29,6 +29,10 @@ AI security is the practice of designing, testing, monitoring, and governing the
 - AI supply chain risks
 - Agentic AI security
 - Human-in-the-loop controls
+- MCP security
+- AI observability
+- AI runtime governance
+- Identity abuse in AI agents
 
 ## Learning Goals
 
@@ -59,3 +63,5 @@ By completing this section, you will understand:
 - RAG risk assessment
 - Agent permission review
 - AI red team test plan
+- MCP security review
+- AI observability plan

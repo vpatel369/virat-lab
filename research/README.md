@@ -4,12 +4,13 @@ This section supports AI research workflows, weekly updates, paper reviews, tool
 
 ## Research Areas
 
-- Weekly AI updates
-- AI tools
-- AI papers
-- Startups
-- Industry trends
-- AI security research
+- [Weekly AI updates](weekly-updates/)
+- [AI tools](tools/)
+- [AI papers](papers/)
+- [Startups](startups/)
+- [Future trends](future-trends/)
+- [AI security research](ai-security/)
+- [AI agents research](ai-agents/)
 - Healthcare AI research
 - Automation patterns
 
