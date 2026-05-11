@@ -1,3 +1,14 @@
+![GitHub stars](https://img.shields.io/github/stars/vpatel369/virat-lab?style=social)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/vpatel369/virat-lab)
+
+![License](https://img.shields.io/github/license/vpatel369/virat-lab)
+
+![AI](https://img.shields.io/badge/Focus-AI-blue)
+
+![Security](https://img.shields.io/badge/Domain-AI_Security-red)
+
+![Automation](https://img.shields.io/badge/Automation-Workflows-green)
 # Virat Lab
 
 ## Open AI Learning & Workflow Hub
