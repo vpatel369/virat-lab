@@ -35,3 +35,15 @@ workflows/
 research/
 resources/
 templates/
+
+## Quick Navigation
+
+| Section | Link |
+|---|---|
+| Beginner Path | [Open](./beginner-path) |
+| AI Security | [Open](./ai-security) |
+| Healthcare AI | [Open](./healthcare-ai) |
+| Claude Skills | [Open](./claude-skills) |
+| Workflows | [Open](./workflows) |
+| Research | [Open](./research) |
+| Resources | [Open](./resources) |
