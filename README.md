@@ -37,7 +37,7 @@ resources/
 templates/
 ---
 
-## Quick Navigation
+# Quick Navigation
 
 | Section | Link |
 |---|---|
