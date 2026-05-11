@@ -35,7 +35,7 @@ workflows/
 research/
 resources/
 templates/
----
+```
 
 # Quick Navigation
 
